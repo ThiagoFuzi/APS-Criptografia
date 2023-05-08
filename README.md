@@ -1,4 +1,4 @@
-# A aplicação foi desenvolvida em Java e funciona da seguinte maneira:
+# Imagens da aplicação funcionando
 
 ### Usuário insere a mensagem que deseja criptografar
 
